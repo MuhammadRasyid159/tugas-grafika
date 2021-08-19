@@ -1,2 +1,6 @@
 # tugas-grafika
-tugas kelompok
+
+kelompok
+Muhammad Abdian
+Muhammad Rasyid
+Rio Ahza Afandi
