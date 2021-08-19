@@ -1,0 +1,17 @@
++ NAMA KELOMPOK
+
++ RIO AHZA AFFANDI(19312192) : YANG MEMPROSES AGISOFT, DAN MENGUMPULKAN MERINGKAS SEMUA FILE
+
++ MUHAMMAD RASYID(19312228) : YANG MENGUMPULKAN FOTO, DAN MEMPROSES DI GITHUB
+
++ MUHAMMAD ABDIAN(19312195) : MENGGASKAN IDE
+
++
+
++ disini kami menggunakan objek boneka dengan total 22 foto
+
++ menggunakan kamera ponsel
+
++ memproses menggunakan agisoft metashape
+
++ memproses di github
