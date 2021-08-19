@@ -1,0 +1,8 @@
+NAMA KELOMOK
+RIO AHZA AFFANDI (19312192): YANG MEMPROSES FOTO MENGGUNAKAN AGISOFT,DAN MENGUMPULKAN MERINGKASL SEMUA FILE
+MUHAMMAD ROSYID (19312228): YANG MENGUMPULKAN FOTO
+MUHAMAD ABDIAN (19312195): MENGGASKAN IDE
+
+disini kami menggunakan objek boneka dengan total foto 22 foto
+menggunakan kamera ponsel
+dan memproses menggunakan agisoft metashape
